@@ -93,7 +93,12 @@
 ## 📫 Contact
 
 📧 Email: **basudevd983@gmail.com**  
-🌐 Instagram: [@basudevd983](https://instagram.com/basudevd983)
+💼 LinkedIn: [linkedin.com/in/basudev-das](https://www.linkedin.com/in/basudev-das)
+
+---
+
+> 💡 *Focused on building scalable, ML-driven web systems using modern frontend and backend engineering practices.*
+
 
 ---
 
