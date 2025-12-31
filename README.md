@@ -1,87 +1,92 @@
 # 👋 Hi, I'm Basudev Das
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
-💻 Python | Machine Learning | NLP | Web Development  
-🚀 Focused on building **end-to-end, deployment-ready ML applications**
+💻 Full-Stack Python Developer | Machine Learning | NLP  
+🚀 Building **end-to-end ML-powered web applications**
 
 ---
 
 ## 🧠 Current Focus
 
-- Building **production-ready Machine Learning projects**
-- Applying **ML concepts end-to-end** (data → model → explainability → deployment)
-- Strengthening **Python backend + ML integration**
-- Preparing for **ML / Data / Python developer roles**
+- Developing **full-stack ML applications** using modern frontend & backend stacks
+- Integrating **Machine Learning models with RESTful APIs**
+- Strengthening **React-based frontend development**
+- Designing **scalable backend services** for ML inference
+- Preparing for **ML Engineer / Python Backend / Full-Stack roles**
 
 ---
 
-## 🔥 Featured Projects (Highlighted)
+## 🔥 Featured Projects
 
 ### 🎓 Student Performance Prediction System
-**Tech:** Python, Pandas, Scikit-learn, Flask, HTML/CSS  
+**Tech:** Python, Pandas, Scikit-learn, Flask, REST APIs, HTML, CSS  
 - Built a regression-based ML system to predict student scores
-- Implemented data preprocessing, feature selection, and evaluation
-- Deployed a Flask-based web application for real-time predictions
-
-🔗 Live Demo: https://student-performance-ai-p30z.onrender.com  
-🔗 GitHub Repo: *(add link here)*
+- Designed REST-style Flask endpoints for model inference
+- Created a responsive frontend to consume backend predictions
+- Deployed as a complete ML-powered web application
 
 ---
 
 ### ⚠️ Student Risk Analyzer (Classification)
-**Tech:** Random Forest, Scikit-learn, Pandas, Flask  
-- Classified students into **Low / Medium / High risk** categories
-- Analyzed feature importance for model explainability
-- Built a deployable Flask inference system
-- Designed path-safe project structure for easy cloning & deployment
-
-🔗 GitHub Repo: *(add link here)*
+**Tech:** Python, Random Forest, Flask, REST APIs, HTML, CSS  
+- Classified students into risk categories using ML
+- Exposed prediction logic via backend APIs
+- Implemented feature importance for explainability
+- Built UI connected to API-driven inference
 
 ---
 
 ### 💬 Student Feedback Sentiment Analyzer (NLP)
-**Tech:** TF-IDF, Logistic Regression, NLP, Flask  
-- Developed an NLP pipeline to classify feedback as **Positive / Neutral / Negative**
-- Implemented bigram-based TF-IDF to handle negation and sentiment phrases
-- Addressed class imbalance using class-weighted learning
-- Combined multiple feedback text fields using feature branching in Git
-- Built a multi-input Flask web app aligned with training logic
-- Documented model limitations and experimentation strategy
-
-🔗 GitHub Repo: *(add link here)*
+**Tech:** Python, NLP (TF-IDF), Logistic Regression, Flask, REST APIs, HTML, CSS  
+- Developed an NLP pipeline for sentiment analysis
+- Implemented class weighting and bigram features
+- Built RESTful inference endpoints
+- Created a multi-input frontend aligned with training logic
+- Used Git feature branching for experimentation
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### Languages
+### Programming Languages
 - Python
-- HTML, CSS, JavaScript
+- JavaScript
+- HTML5, CSS3
+
+### Frontend Development
+- React (component-based UI, hooks fundamentals)
+- Responsive design & layout
+- Form handling & state management
+- Frontend–backend integration
+- API consumption (fetch / axios)
+
+### Backend Development
+- Flask (routing, forms, REST APIs)
+- RESTful API design
+- Model inference endpoints
+- Request validation & error handling
+- Backend–ML integration
+- Basic deployment concepts (Gunicorn)
 
 ### Machine Learning & Data
 - Scikit-learn
 - Pandas, NumPy
+- Regression & Classification models
 - NLP (TF-IDF, Logistic Regression)
 - Model evaluation & explainability
 
-### Backend & Tools
-- Flask
-- Git & GitHub (feature branching, versioning)
+### Databases & Tools
 - MongoDB Atlas
+- Git & GitHub (branching, version control)
 - VS Code
 
 ---
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Basudev-Das25&theme=radical&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Basudev-Das25&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Basudev-Das25&theme=radical&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Basudev-Das25&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Basudev-Das25&theme=radical&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Basudev-Das25&theme=radical&margin-w=4)
 
 ---
 
@@ -92,4 +97,4 @@
 
 ---
 
-> 💡 *This profile focuses on practical, deployable ML projects demonstrating real-world problem solving and engineering discipline.*
+> 💡 *Focused on building scalable, ML-driven web systems using modern frontend and backend engineering practices.*
