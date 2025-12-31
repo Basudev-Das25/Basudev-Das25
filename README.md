@@ -136,6 +136,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284090-0c9d53b8-0a57-4b7a-8c8f-9f5f8d0c4f08.gif" width="500"/>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/Basudev-Das25/Basudev-Das25/output/github-contribution-grid-snake.svg)
+
 ---
 
 > 💡 *Focused on building scalable, ML-driven web systems using modern frontend and backend engineering practices.*
