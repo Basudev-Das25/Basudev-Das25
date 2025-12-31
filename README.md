@@ -112,28 +112,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basudev-Das25&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basudev-Das25&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basudev-Das25&layout=compact&theme=radical&hide_border=true" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=Basudev-Das25&theme=radical&hide_border=false&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Basudev-Das25&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Basudev-Das25&theme=radical&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Basudev-Das25&theme=radical&no-frame=true&margin-w=10" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Basudev-Das25&theme=radical&margin-w=4)
 
 ---
 
