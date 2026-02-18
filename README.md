@@ -35,21 +35,9 @@
 
 ## 🔥 Featured Projects
 
-### 🎓 Student Performance Prediction System
-**Tech:** Python, Pandas, Scikit-learn, Flask, REST APIs, HTML, CSS  
-- Built a regression-based ML system to predict student scores  
-- Designed Flask backend endpoints for ML inference  
-- Created a clean web UI for real-time predictions  
-- Deployed as a complete ML-powered web application  
-
-🔗 **Live Demo:** https://student-performance-ai-p30z.onrender.com  
-
----
-
 ### 🧠 CreatorTank  
 A **local-first desktop application** built for content creators to manage ideas, projects, scripts, assets, and publishing workflows — all in a secure offline environment.
 
----
 
 ### 📌 Overview
 CreatorTank is designed to streamline the creative pipeline from idea generation to content publishing.  
@@ -57,7 +45,6 @@ Unlike cloud-based tools, it stores data locally, ensuring **privacy, speed, and
 
 This project demonstrates strong architectural thinking, state management, desktop app integration, and modern frontend engineering practices.
 
----
 
 ### ✨ Key Features
 
@@ -86,7 +73,6 @@ This project demonstrates strong architectural thinking, state management, deskt
   - Built using Electron
   - Runs on Windows, macOS, and Linux
 
----
 
 ### 🛠 Tech Stack
 
@@ -97,7 +83,6 @@ This project demonstrates strong architectural thinking, state management, deskt
 - **Framer Motion** — UI animations  
 - **Lucide React** — Icon system  
 
----
 
 ### 🎯 Why This Project Stands Out
 
@@ -106,7 +91,6 @@ This project demonstrates strong architectural thinking, state management, deskt
 - Solves a real productivity problem for content creators
 - Built with scalability in mind (future features: tagging, versioning, templates)
 
----
 
 ### 🔗 Repository
 [GitHub Repository](https://github.com/Basudev-Das25/CreatorTank) 
