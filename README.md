@@ -46,12 +46,70 @@
 
 ---
 
-### ⚠️ Student Risk Analyzer (Classification)
-**Tech:** Python, Random Forest, Flask, REST APIs, HTML, CSS  
-- Classified students into **Low / Medium / High risk** categories  
-- Implemented feature importance for explainability  
-- Built backend inference logic with frontend integration  
-- Designed path-safe project structure for easy deployment  
+### 🧠 CreatorTank  
+A **local-first desktop application** built for content creators to manage ideas, projects, scripts, assets, and publishing workflows — all in a secure offline environment.
+
+---
+
+### 📌 Overview
+CreatorTank is designed to streamline the creative pipeline from idea generation to content publishing.  
+Unlike cloud-based tools, it stores data locally, ensuring **privacy, speed, and full user control**.
+
+This project demonstrates strong architectural thinking, state management, desktop app integration, and modern frontend engineering practices.
+
+---
+
+### ✨ Key Features
+
+- 🗂 **Project & Idea Management**
+  - Create, edit, and organize multiple content projects
+  - Structured workflow tracking (Idea → Draft → Production → Published)
+
+- 📝 **Script & Notes Editor**
+  - Dedicated writing space for scripts
+  - Asset linking within projects
+
+- 📅 **Content Planning System**
+  - Publishing schedule tracking
+  - Workflow stage monitoring
+
+- 📦 **Local Database Integration**
+  - SQL.js-powered persistent storage
+  - Fully offline data management
+
+- 🎨 **Modern UI/UX**
+  - Glassmorphism-inspired interface
+  - Smooth animations using Framer Motion
+  - Responsive and clean layout
+
+- 🖥 **Cross-Platform Desktop App**
+  - Built using Electron
+  - Runs on Windows, macOS, and Linux
+
+---
+
+### 🛠 Tech Stack
+
+- **Electron** — Desktop application framework  
+- **React + Vite** — Modern frontend tooling  
+- **TypeScript** — Type-safe development  
+- **SQL.js** — Client-side database  
+- **Framer Motion** — UI animations  
+- **Lucide React** — Icon system  
+
+---
+
+### 🎯 Why This Project Stands Out
+
+- Demonstrates full-stack desktop architecture (Frontend + Local DB + Electron main process)
+- Applies local-first software design principles
+- Solves a real productivity problem for content creators
+- Built with scalability in mind (future features: tagging, versioning, templates)
+
+---
+
+### 🔗 Repository
+[GitHub Repository](https://github.com/Basudev-Das25/CreatorTank) 
 
 ---
 
